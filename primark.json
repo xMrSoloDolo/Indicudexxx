@@ -1,1 +1,42 @@
+{
 
+	"APP_KEY": "fc8adac9",
+	"BANNER_PLACEMENT": "DefaultBanner",
+	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
+
+	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
+	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
+
+	"APPLOVIN_BANNER_ID": "d063c02502087ff6",
+	"APPLOVIN_INTERSTITIAL_ID": "2fb38336c560d201",
+
+	"UNITY_BANNER": "Android_Banner",
+	"UNITY_INTERSTITIAL": "Android_Interstitial",
+	"UNITY_GAME_ID": "3916229",
+	"UNITY_TEST_MODE": false,
+
+	"SwitchAds": 2,
+
+	"MoreApps": "h3116631",
+
+	"popAppLink": "htp",
+	"popAppName": "Gap",
+	"popAppImage": "h2.png",
+	"popAppPackage": "cp",
+	"popAppIsActive": true,
+
+	"isPage1Activate": true,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
+
+	"URLs": [
+
+		{
+			"title": "My Cima",
+			"image": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/mycima.png",
+			"url": "https://www.facebook.com/"
+		}
+
+	]
+
+}
