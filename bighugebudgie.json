@@ -7,8 +7,8 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "d063c02502087ff6",
-	"APPLOVIN_INTERSTITIAL_ID": "2fb38336c560d201",
+	"APPLOVIN_BANNER_ID": "62ce623835c37fb3",
+	"APPLOVIN_INTERSTITIAL_ID": "cf1474ed29402acf",
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -23,7 +23,7 @@
 	"popAppName": "Gap",
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
