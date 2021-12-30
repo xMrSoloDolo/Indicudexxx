@@ -15,25 +15,25 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
-	"MoreApps": "h3116631",
+	"MoreApps": "667733",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
 	"popAppImage": "h2.png",
 	"popAppPackage": "cp",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 
 	"URLs": [
 
 		{
-			"title": "My Cima",
-			"image": "https://raw.githubusercontent.com/tahaprogrammer/Test/main/mycima.png",
+			"title": "Deep-l Translate",
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/deeplogo.png",
 			"url": "https://www.facebook.com/"
 		}
 
