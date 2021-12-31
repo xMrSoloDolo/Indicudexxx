@@ -26,15 +26,15 @@
 	"popAppIsActive": false,
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 
 	"URLs": [
 
 		{
 			"title": "primark shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/primlogo.png",
-			"url": "https://"
+			"url": "https"
 		}
 
 	]
