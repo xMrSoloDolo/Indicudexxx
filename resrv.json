@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fc8adac9",
+	"APP_KEY": "fS7776633",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -34,7 +34,7 @@
 		{
 			"title": "Reserved Shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/reservlogo.png",
-			"url": "https://www.reserved.com/"
+			"url": "https://"
 		}
 
 	]
