@@ -7,15 +7,15 @@
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "d063c02502087ff6",
-	"APPLOVIN_INTERSTITIAL_ID": "2fb38336c560d201",
+	"APPLOVIN_BANNER_ID": "affbfd9dfd479a97",
+	"APPLOVIN_INTERSTITIAL_ID": "e6df5b9d6dc8987f",
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 2,
 
 	"MoreApps": "667733",
 
@@ -26,15 +26,15 @@
 	"popAppIsActive": false,
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 
 	"URLs": [
 
 		{
 			"title": "Reserved Shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/reservlogo.png",
-			"url": "https://"
+			"url": "https://www.reserved.com/"
 		}
 
 	]
