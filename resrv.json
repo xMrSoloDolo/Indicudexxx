@@ -19,11 +19,11 @@
 
 	"MoreApps": "667733",
 
-	"popAppLink": "htp",
-	"popAppName": "Gap",
-	"popAppImage": "h2.png",
-	"popAppPackage": "cp",
-	"popAppIsActive": false,
+	"popAppLink": "https://play.google.com/store/apps/details?id=com.primarkcud.shopprim",
+	"popAppName": "Get New App",
+	"popAppImage": "https://play-lh.googleusercontent.com/vOuR2M32CH6WqkDR6T8DCEttpKUxtwbNu0iqNIZGin15XFl9DBF5M85nplO7W1ZhCxY=s512",
+	"popAppPackage": "com.primarkcud.shopprim",
+	"popAppIsActive": true,
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
