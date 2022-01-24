@@ -23,7 +23,7 @@
 	"popAppName": "Get New App",
 	"popAppImage": "https://play-lh.googleusercontent.com/vOuR2M32CH6WqkDR6T8DCEttpKUxtwbNu0iqNIZGin15XFl9DBF5M85nplO7W1ZhCxY=s512",
 	"popAppPackage": "com.primarkcud.shopprim",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 	
 	"isPage1Activate": true, 
 	"isPage2Activate": true,
