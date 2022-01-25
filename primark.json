@@ -1,6 +1,6 @@
 {
 
-	"APP_KEY": "fS7776633",
+	"APP_KEY": "7215226",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
@@ -15,7 +15,7 @@
 	"UNITY_GAME_ID": "3916229",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 2,
+	"SwitchAds": 1,
 
 	"MoreApps": "667733",
 
@@ -26,8 +26,8 @@
 	"popAppIsActive": false,
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 
 	"URLs": [
 
