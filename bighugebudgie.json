@@ -26,8 +26,8 @@
 	"popAppIsActive": true,
 	
 	"isPage1Activate": true, 
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 
 	"URLs": [
 
