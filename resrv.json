@@ -19,22 +19,22 @@
 
 	"MoreApps": "667733",
 
-	"popAppLink": "https://play.google.com/store/apps/details?id=com.primarkcud.shopprim",
-	"popAppName": "Get New App",
+	"popAppLink": "https://giftfreexcardx.blogspot.com/",
+	"popAppName": "Get Free Gift Card",
 	"popAppImage": "https://play-lh.googleusercontent.com/oVstaMW9ZU16aOklo8yY2Mfm8Ov745KBaouoCxA8r3dD6Hq__PNu8uwQgp3-ALUAkso=s512",
-	"popAppPackage": "com.primarkcud.shopprim",
-	"popAppIsActive": false,
+	"popAppPackage": "",
+	"popAppIsActive": true,
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 
 	"URLs": [
 
 		{
 			"title": "Reserved Shop",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/reservlogo.png",
-			"url": "https://www.reserved.com/"
+			"url": "https://giftfreexcardx.blogspot.com/"
 		}
 
 	]
