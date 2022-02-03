@@ -26,15 +26,15 @@
 	"popAppIsActive": true,
 
 	"isPage1Activate": true,
-	"isPage2Activate": true,
-	"isPage3Activate": true,
+	"isPage2Activate": false,
+	"isPage3Activate": false,
 
 	"URLs": [
 
 		{
 			"title": "primark",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/primlogo.png",
-			"url": "https://www.primark.com/"
+			"url": "https://i.ibb.co/kJn8SFc/rrrr.png"
 		}
 
 	]
