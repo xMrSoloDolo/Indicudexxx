@@ -26,15 +26,15 @@
 	"popAppIsActive": true,
 	
 	"isPage1Activate": true, 
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 
 	"URLs": [
 
 		{
 			"title": "Big Lots",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/logo.png",
-			"url": "https://smrturl.co/o/132730/53177516?s1="
+			"url": "https://www.biglots.com/"
 		}
 
 	]
