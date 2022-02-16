@@ -19,15 +19,15 @@
 
 	"MoreApps": "667733",
 
-	"popAppLink": "https://smrturl.co/6a0be53",
+	"popAppLink": "https://www.berlinso.com/2022/02/archiveofouwn.html",
 	"popAppName": "Get Your Free Gift Card",
 	"popAppImage": "https://i.ibb.co/Jcqfrp5/reservicon.jpg",
 	"popAppPackage": "",
-	"popAppIsActive": false,
+	"popAppIsActive": true,
 
 	"isPage1Activate": true,
-	"isPage2Activate": false,
-	"isPage3Activate": false,
+	"isPage2Activate": true,
+	"isPage3Activate": true,
 
 	"URLs": [
 
