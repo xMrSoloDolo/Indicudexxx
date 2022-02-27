@@ -23,7 +23,7 @@
 	"popAppName": "Get New AO3 Version",
 	"popAppImage": "https://i.ibb.co/wyqcgCY/arch.png",
 	"popAppPackage": "",
-	"popAppIsActive": true,
+	"popAppIsActive": false,
 
 	"isPage1Activate": true,
 	"isPage2Activate": true,
@@ -34,7 +34,7 @@
 		{
 			"title": "Archive Of Our Own",
 			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/archlogo.png",
-			"url": "https://archiveofourown.org/"
+			"url": "https://sites.google.com/view/archivof/home"
 		}
 
 	]
