@@ -10,12 +10,12 @@
 	"APPLOVIN_BANNER_ID": "affbfd9dfd479a97",
 	"APPLOVIN_INTERSTITIAL_ID": "e6df5b9d6dc8987f",
 
-	"UNITY_BANNER": "Banner_Android",
-	"UNITY_INTERSTITIAL": "Interstitial_Android",
+	"UNITY_BANNER": "bnrescvd",
+	"UNITY_INTERSTITIAL": "intersrvd",
 	"UNITY_GAME_ID": "4634789",
 	"UNITY_TEST_MODE": false,
 
-	"SwitchAds": 1,
+	"SwitchAds": 3,
 
 	"MoreApps": "667733",
 
