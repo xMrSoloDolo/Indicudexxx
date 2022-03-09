@@ -1,14 +1,16 @@
 {
 
-	"APP_KEY": "fS7774633",  
+	"APP_KEY": "fS5ih521",
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
 	"ADMOB_BANNER": "ca-app-pub-3940256099942544/6300978111",
 	"ADMOB_INTERSTITIAL": "ca-app-pub-3940256099942544/1033173712",
 
-	"APPLOVIN_BANNER_ID": "cd5682f2947",
-	"APPLOVIN_INTERSTITIAL_ID": "1a28474714f5040",
+	"APPLOVIN_BANNER_ID": "dfafb9785e343",
+	"APPLOVIN_INTERSTITIAL_ID": "2c3e9c18514b2164",
+	"APPLOVIN_INTERSTITIAL_ONBACK":"2c3e8852164",
+	"ENABLE_ONBACK_ADS":false,
 
 	"UNITY_BANNER": "Android_Banner",
 	"UNITY_INTERSTITIAL": "Android_Interstitial",
@@ -17,24 +19,42 @@
 
 	"SwitchAds": 1,
 
-	"MoreApps": "667733",
+	"MoreApps": "6455133",
 
-	"popAppLink": "https://play.google.com/store/ap",
-	"popAppName": "Get ",
-	"popAppImage": "https://g",
+	"popAppLink": "",
+	"popAppName": "Get",
+	"popAppImage": "https://i.ibb.co/LvGy2Gv/bglo.jpg",
 	"popAppPackage": "",
 	"popAppIsActive": false,
-	
-	"isPage1Activate": true, 
+	"Interval_Time":60000, 
+
+	"isPage1Activate": true,
 	"isPage2Activate": false,
 	"isPage3Activate": false,
+	"isPage4Activate": false,
+    	//content Page 4
+	"textPage4":"have you ever bought from big lots online Before?",
+	"button1Page4":"yes",
+	"button2Page4":"no",
+	"isPage5Activate": false,
+		//content Page 5
+	"textPage5":"choose boy or budgie",
+	"button1Page5":"boy",
+	"button2Page5":"budgie",
+	
+	"isPage6Activate": false,
+	
+	//cpa image banner
+    "Visibility_image_cpa":false,
+    "Url_Image_Cpa":"https://smrturl.co/o/132730/53177516",
+    "Image_View_cpa":"https://sportsworldrunningclub.com/wp-content/uploads/2019/04/Click-here-to-Enter-Button-IMG.jpg",
 
 	"URLs": [
 
 		{
 			"title": "Big Lots",
-			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/logo.png",
-			"url": "https://www.biglots.com/"
+			"image": "https://raw.githubusercontent.com/xMrSoloDolo/images/main/bgbudgie.png",
+			"url": "https://"
 		}
 
 	]
